@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @POTATOsellerDev
+- 👋 Hi, I’m @StyingDev
 - 👀 I’m interested in reading manhwas
 - 🌱 I’m currently learning how not to be a loser
 - 💞️ I’m looking to collaborate on my homework
