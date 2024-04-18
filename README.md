@@ -1,5 +1,5 @@
 - 👋 I’m @StyingDev
-- 👀 I make stupid stuff
+- 👀 I make stupid stuff(mostly) and cool stuff
 - 🌱 My socials linktr.ee/stying
 - 📫 You can contact me through my Discord - @Stying
 
