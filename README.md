@@ -1,4 +1,4 @@
-[![Ceasefire Now](https://badge.techforpalestine.org/default)](https://techforpalestine.org/learn-more)
+- [![Ceasefire Now](https://badge.techforpalestine.org/default)](https://techforpalestine.org/learn-more)
 - 👋 I’m @StyingDev
 - 👀 I have a obsession with naming things after me...
 - 🌱 My socials linktr.ee/stying
