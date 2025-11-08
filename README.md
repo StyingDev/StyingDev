@@ -1,4 +1,4 @@
-<img width="2074" height="797" alt="edit" src="https://github.com/user-attachments/assets/36cfc41e-9ef3-4bf7-bfaa-12d7ca3ee09d" />
+<img width="2074" height="797" alt="edit" src="https://github.com/user-attachments/assets/ac44b7a9-1093-4dc3-944c-923c4d18be4e" />
 
 [![Ceasefire Now](https://badge.techforpalestine.org/default)](https://techforpalestine.org/learn-more)
 
