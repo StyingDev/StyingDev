@@ -1,9 +1,9 @@
+<img width="2074" height="797" alt="edit" src="https://github.com/user-attachments/assets/36cfc41e-9ef3-4bf7-bfaa-12d7ca3ee09d" />
+
 [![Ceasefire Now](https://badge.techforpalestine.org/default)](https://techforpalestine.org/learn-more)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=StyingDev&layout=compact&bg_color=000000&title_color=E4312b&text_color=FFFFFF&icon_color=149954&border_color=000000)
-
-- 🌐 My socials linktr.ee/stying
-- 📶 You can contact me through my Discord - @Stying
+1) 🌐 My socials linktr.ee/stying
+2) 📶 You can contact me through E-mail: Stying@duck.com 
 
 
 
